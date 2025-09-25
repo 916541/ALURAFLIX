@@ -17,3 +17,6 @@ background: black;
    display:flex;
    justify-content: center;
  }
+ chamada-texto{
+  margin: right 20px; 
+}
