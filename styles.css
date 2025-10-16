@@ -19,7 +19,7 @@ font-family: "Chakra Petch", sans-serif;
    display: flex;
    justify-content: center;
  }
- chamada-texto{
+ .chamada-texto{
   margin-right 5%; 
 }
 
@@ -34,7 +34,7 @@ p{
 img {
   height: 200;
 }
-categoria-videos {
+.categoria-videos {
   display: flex;
   overflow-x: auto;
 
