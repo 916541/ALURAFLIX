@@ -3,7 +3,8 @@ color:white;
 background: black;
 margin:0px;
 font-family: "Chakra Petch", sans-serif;
-}
+margin-bottom: 100px:auto
+
 
  header {
     border-bottom: solid 2px rgb(42, 122, 228);
@@ -20,7 +21,7 @@ font-family: "Chakra Petch", sans-serif;
    justify-content: center;
  }
  .chamada-texto{
-  margin-right 5%; 
+  margin-top 50px; 
 }
 
 h1 {
